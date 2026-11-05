@@ -1,6 +1,4 @@
-# This is a basic worbranches: [ "main" ]
-  pull_request:
-    name: Build Android APK
+name: Build Android APK
 
 on:
   push:
